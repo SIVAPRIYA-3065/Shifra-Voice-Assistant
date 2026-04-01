@@ -35,16 +35,6 @@ Web Speech API – For speech recognition and text-to-speech.
 ├── script.js       # Core logic (speech recognition & responses)
 └── README.md       # Project documentation
 
-⚡ Getting Started
-
-Clone this repository:
-
-git clone https://github.com/Sri-0105/personal-voice-assistant.git
-
-
-Open index.html in your browser.
-(No server required – works locally!)
-
 🎯 Future Enhancements
 
 Add weather updates using an API.
